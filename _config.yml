@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ""
+baseurl: "/topec"
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -25,7 +25,7 @@ tagline: The Open-source PS Exploitation Compilation # it will display as the su
 description: >- # used by seo meta and the atom feed
   Guides and Tutorials for exploiting Playstation, Playstation 2, PS3, PS4 amd hopefully soon enough Playstation 5!
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://talal12bfk.github.io"
 
 github:
   username: talal12bfk # change to your github username
@@ -36,8 +36,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: theAuthor
-  email: example@domain.com # change to your email address
+  name: Talal Alrwas
+  email: topec@tutanota.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
